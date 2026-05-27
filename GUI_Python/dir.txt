@@ -1,0 +1,41 @@
+ Volume in drive E is DATA
+ Volume Serial Number is 7C14-2EFE
+
+ Directory of E:\GitHub\WheatSim_Interface\GUI_Python
+
+05/27/2026  11:16 AM    <DIR>          .
+05/26/2026  06:24 PM    <DIR>          ..
+05/23/2026  04:50 PM    <DIR>          CreateSoils
+05/27/2026  11:40 AM                 0 dir.txt
+05/27/2026  11:18 AM            12,224 Main_WheatSim.py
+04/01/2026  08:32 PM            87,621 NO3_kg_ha_calculation.xlsx
+04/02/2026  03:09 PM             7,217 NO3_timeseries_fig.py
+05/23/2026  04:50 PM    <DIR>          output_figures
+04/02/2026  04:44 PM             6,978 Plant_timeseries_fig.py
+03/23/2026  03:45 PM           636,605 Presentation1.pptx
+03/31/2026  03:25 PM             3,818 RunCreateSoilExe.py
+05/23/2026  04:51 PM    <DIR>          SB_sim_test
+04/02/2026  02:47 PM             6,418 SM_2DPlots.py
+04/03/2026  03:23 PM            10,821 SM_NO3_timeseries_fig.py
+03/30/2026  06:23 PM             3,065 UpdateGRD.py
+05/23/2026  04:51 PM    <DIR>          Weather
+03/31/2026  03:25 PM             3,868 WriteBiology.py
+03/30/2026  03:57 PM             4,581 WriteClimate.py
+04/01/2026  02:22 PM             3,958 WriteDrip.py
+03/24/2026  10:18 AM             3,740 WriteGas.py
+05/27/2026  11:16 AM             4,585 WriteInitCondition.py
+03/24/2026  09:33 PM             5,862 WriteIrrig.py
+03/26/2026  04:12 PM             8,144 WriteLayer.py
+04/01/2026  02:18 PM             8,541 WriteManagement.py
+03/24/2026  10:47 PM             5,431 WriteMulch.py
+03/25/2026  04:21 PM             3,239 WriteNit.py
+04/01/2026  01:50 PM             3,960 WriteRun.py
+04/02/2026  04:29 PM             6,420 WriteSolute.py
+03/26/2026  11:52 AM             4,021 WriteTime.py
+05/26/2026  06:54 PM             8,296 WriteVar.py
+03/25/2026  05:17 PM               600 WriteWaterBound.py
+03/25/2026  11:35 AM             2,594 WriteWatMoveParam.py
+03/26/2026  04:12 PM            11,339 WriteWea.py
+05/27/2026  11:16 AM    <DIR>          __pycache__
+              27 File(s)        863,946 bytes
+               7 Dir(s)  11,521,229,053,952 bytes free

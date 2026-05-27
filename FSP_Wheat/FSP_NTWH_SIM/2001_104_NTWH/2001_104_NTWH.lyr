@@ -1,0 +1,17 @@
+surface ratio    internal ratio: ratio of the distance between two neighboring nodes
+1.6         0.05        2.1         2          
+Row Spacing
+19.05
+ Planting Depth  X limit for roots 
+10          23          0          
+Surface water Boundary Code  surface and bottom Gas boundary codes(for all bottom nodes) 1 constant -2 seepage face,  7 drainage 4 atmospheric
+water boundary code for bottom layer, gas BC for the surface and bottom layers 
+-7          -4          1          
+ Bottom depth Init Type  OM (%/100)    Humus_C     Humus_N      Litter_C      Litter_N      Manure_C      Manure_N       no3(ppm)           NH4          hNew           Tmpr            CO2         O2         N2O      Sand       Silt        Clay          BD         TH33       TH1500  thr ths tha th  Alfa    n   Ks  Kk  thk
+ cm         w/m            Frac        ug/cm3       ug/cm3       ug/cm3        ug/cm3        ug/cm3        ug/cm3            ppm          ppm              cm           0C            ppm            ppm          ppm       ----  fraction---             g/cm3        cm3/cm3     cm3/cm3
+5.0         'm'          0.0260408      -1.000      -1.000       0.000         0.000         0.000         0.000          4.445           1.485         -200            23             400       206000        0       0.268       0.579       0.154       1.270       -1          -1    -1   -1   -1   -1   -1   -1   -1   -1   -1
+10.0        'm'          0.0163641      -1.000      -1.000       0.000         0.000         0.000         0.000          3.450           1.275         -200            23             400       206000        0       0.279       0.555       0.166       1.330       -1          -1    -1   -1   -1   -1   -1   -1   -1   -1   -1
+22.5        'm'          0.0158068      -1.000      -1.000       0.000         0.000         0.000         0.000          4.585           1.150         -200            23             400       206000        0       0.266       0.565       0.169       1.410       -1          -1    -1   -1   -1   -1   -1   -1   -1   -1   -1
+30.0        'm'          0.0063038      -1.000      -1.000       0.000         0.000         0.000         0.000          2.640           0.765         -200            23             400       206000        0       0.205       0.540       0.255       1.500       -1          -1    -1   -1   -1   -1   -1   -1   -1   -1   -1
+60.0        'm'          0.0035914      -1.000      -1.000       0.000         0.000         0.000         0.000          2.055           0.850         -200            23             400       206000        0       0.212       0.504       0.283       1.560       -1          -1    -1   -1   -1   -1   -1   -1   -1   -1   -1
+100.0       'm'          0.0022790      -1.000      -1.000       0.000         0.000         0.000         0.000          1.235           1.055         -200            23             400       206000        0       0.206       0.518       0.275       1.510       -1          -1    -1   -1   -1   -1   -1   -1   -1   -1   -1

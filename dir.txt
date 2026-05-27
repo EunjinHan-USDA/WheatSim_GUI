@@ -1,0 +1,15 @@
+ Volume in drive E is DATA
+ Volume Serial Number is 7C14-2EFE
+
+ Directory of E:\GitHub\WheatSim_GUI
+
+05/27/2026  02:46 PM    <DIR>          .
+05/27/2026  02:24 PM    <DIR>          ..
+05/27/2026  02:25 PM    <DIR>          CreateSoils
+05/27/2026  03:05 PM                 0 dir.txt
+05/27/2026  02:50 PM    <DIR>          FSP_Wheat
+05/27/2026  02:26 PM    <DIR>          GUI_Python
+05/27/2026  02:24 PM                46 README.md
+05/27/2026  02:25 PM    <DIR>          WheatSim_exe
+               2 File(s)             46 bytes
+               6 Dir(s)  11,523,352,707,072 bytes free
